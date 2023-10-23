@@ -7,7 +7,7 @@ A Python-based solver for Nonograms using Constraint Satisfaction Problem (CSP) 
 First, clone the repository:
 
 ```bash
-git clone https://your-repo-link.git
+git clone https://github.com/eisaacson05/nonogram_solver.git
 cd nonogram_solver
 ```
 
