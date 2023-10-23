@@ -1,9 +1,12 @@
-class NonogramSolver:
-    def __init__(self, rows, columns):
-        self.rows = rows
-        self.columns = columns
-        # TODO: Initialization of CSP solver
+class Solver:
+    def __init__(self, board):
+        self.board = board
 
     def solve(self):
         # TODO: Implement the CSP solution
         pass
+
+
+
+
+
